@@ -14,22 +14,14 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 | Storage Services |  https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf |
 | Quick Lab ELB | https://amazon.qwiklabs.com/focuses/370?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2718747 |
 |EC2 Instance Store| https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html |
+|S3 storage classes| https://aws.amazon.com/s3/storage-classes |
+|Glacier|https://docs.aws.amazon.com/glacier/index.html#lang/en_us|
+|EFS FAQ | https://aws.amazon.com/efs/faq/ |
+|S3 FAQ | https://aws.amazon.com/s3/faqs/ |
+|Glacier FAQ| https://aws.amazon.com/glacier/faqs/ |
+|CloudFront FAQ | https://aws.amazon.com/cloudfront/faqs/ |
 
 
-
-public 3:35 PM
-Scott Jones (Organizer)to Everyone
-Previous set: Amazon EBS FAQs https://aws.amazon.com/ebs/faqs/ Whitepaper – AWS Storage Services Overview https://d0.awsstatic.com/whitepapers/Storage/AWS Storage Services Whitepaper-v9.pdf SPL Lab – Introduction to Amazon Elastic Block Store https://amazon.qwiklabs.com/focuses/370?catalog_rank={"rank"%3A2%2C"num_filters"%3A0%2C"has_search"%3Atrue}&parent=catalog&search_id=2718747 Documentation–Amazon EC2 Instance Store https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
-
-public 3:35 PM
-Adam Becker (Organizer, Presenter)to Everyone
-Amazon S3 storage classes: https://aws.amazon.com/s3/storage-classes
-
-public 3:39 PM
-Adam Becker (Organizer, Presenter)to Everyone
-Amazon Glacier Documentation: https://docs.aws.amazon.com/glacier/index.html#lang/en_us
-
-FAQs: Amazon EFS - https://aws.amazon.com/efs/faq/ Amazon S3 - https://aws.amazon.com/s3/faqs/ Amazon Glacier - https://aws.amazon.com/glacier/faqs/ Amazon CloudFront - https://aws.amazon.com/cloudfront/faqs/
 
 public 3:46 PM
 Scott Jones (Organizer)to Everyone
