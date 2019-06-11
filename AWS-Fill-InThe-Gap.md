@@ -6,8 +6,11 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 | FAQ Name   |      Link      |  
 |----------|:-------------|
 | EBS |https://aws.amazon.com/ebs/faqs/ | 
-| ELB |https://aws.amazon.com/documentation/elastic-load-balancing/  https://aws.amazon.com/ec2/faqs/ |   
-| EC2 |https://aws.amazon.com/sqs/faqs/ |   
+| ELB |https://aws.amazon.com/documentation/elastic-load-balancing/  |   
+| ELB |https://aws.amazon.com/elb/faqs/ |  
+| EC2 |https://aws.amazon.com/ec2/faqs/ |  
+| SQS |https://aws.amazon.com/sqs/faqs/ |   
+| Route53 |https://aws.amazon.com/documentation/route53/ |   
 
 
 
