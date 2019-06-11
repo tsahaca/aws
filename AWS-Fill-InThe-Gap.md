@@ -3,7 +3,7 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 
 # AWS Fill in the Gap
 
-| FAQ Name   |      Link      |  
+| FAQ/White Paper   |      Link      |  
 |----------|:-------------|
 | EBS |https://aws.amazon.com/ebs/faqs/ | 
 | ELB |https://aws.amazon.com/documentation/elastic-load-balancing/  |   
@@ -11,16 +11,10 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 | EC2 |https://aws.amazon.com/ec2/faqs/ |  
 | SQS |https://aws.amazon.com/sqs/faqs/ |   
 | Route53 |https://aws.amazon.com/documentation/route53/ |   
+| Storage Services | https://d0.awsstatic.com/whitepapers/Storage/AWS |
 
 
 
-public 3:15 PM
-Rachel Kloster (Organizer)to Everyone
-https://aws.amazon.com/ebs/faqs/
-
-public 3:27 PM
-Scott Jones (Organizer)to Everyone
-https://aws.amazon.com/documentation/elastic-load-balancing/ FAQs - Amazon SQS, ELB, Amazon EC2 https://aws.amazon.com/sqs/faqs/, https://aws.amazon.com/elb/faqs/, https://aws.amazon.com/ec2/faqs/ Amazon Route 53 Documentation https://aws.amazon.com/documentation/route53/
 
 public 3:35 PM
 Scott Jones (Organizer)to Everyone
