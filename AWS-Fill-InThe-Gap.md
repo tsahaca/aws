@@ -12,7 +12,8 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 | SQS |https://aws.amazon.com/sqs/faqs/ |   
 | Route53 |https://aws.amazon.com/documentation/route53/ |   
 | Storage Services |  https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf |
-
+| Quick Lab ELB | https://amazon.qwiklabs.com/focuses/370?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2718747 |
+|EC2 Instance Store| https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html |
 
 
 
