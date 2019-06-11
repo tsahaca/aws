@@ -3,7 +3,7 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 
 # AWS Fill in the Gap
 
-| FAQ/White Paper   |      Link      |  
+| FAQ/White Paper/LAB   |      Link      |  
 |----------|:-------------|
 | EBS |https://aws.amazon.com/ebs/faqs/ | 
 | ELB |https://aws.amazon.com/documentation/elastic-load-balancing/  |   
@@ -23,9 +23,7 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 
 
 
-public 3:46 PM
-Scott Jones (Organizer)to Everyone
-mazon Glacier Documentation https://aws.amazon.com/documentation/glacier/ FAQs – Amazon EFS, Amazon S3, Amazon Glacier, Amazon CloudFront https://aws.amazon.com/efs/faq/, https://aws.amazon.com/s3/faq/, https://aws.amazon.com/glacier/faq/, https://aws.amazon.com/cloudfront/faq/ SPL Lab - Introduction to Amazon Simple Storage Service https://amazon.qwiklabs.com (search for lab) SPL Lab - Introduction to Amazon Elastic File System https://amazon.qwiklabs.com (search for lab)
+SPL Lab - Introduction to Amazon Simple Storage Service https://amazon.qwiklabs.com (search for lab) SPL Lab - Introduction to Amazon Elastic File System https://amazon.qwiklabs.com (search for lab)
 
 public 3:46 PM
 Scott Jones (Organizer)to Everyone
