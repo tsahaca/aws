@@ -11,7 +11,7 @@ We have a repeat webinar on June 17 at 6:00pm Pacific: https://attendee.gotowebi
 | EC2 |https://aws.amazon.com/ec2/faqs/ |  
 | SQS |https://aws.amazon.com/sqs/faqs/ |   
 | Route53 |https://aws.amazon.com/documentation/route53/ |   
-| Storage Services | https://d0.awsstatic.com/whitepapers/Storage/AWS |
+| Storage Services |  https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf |
 
 
 
